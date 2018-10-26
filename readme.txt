@@ -1,3 +1,7 @@
-called stage
+
+
+
+
+
 Git is 
-creating a new branch is quick 
+creating a neew branch is quick and simple 
